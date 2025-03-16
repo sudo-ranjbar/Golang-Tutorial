@@ -1,0 +1,6 @@
+go version
+go help
+go help <topic>
+go build file.go => make exe file
+go clean file.go => remove exe file
+go run file.go => run the file
